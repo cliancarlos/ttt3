@@ -776,8 +776,8 @@
                       "searchTags": [
                         "call"
                       ],
-                      "topRow": 24,
-                      "bottomRow": 28,
+                      "topRow": 19,
+                      "bottomRow": 23,
                       "parentRowSpace": 10,
                       "labelWidth": 5,
                       "defaultDialCode": "+1",
@@ -787,7 +787,7 @@
                       "animateLoading": true,
                       "parentColumnSpace": 14.5419921875,
                       "resetOnSubmit": true,
-                      "leftColumn": 28,
+                      "leftColumn": 26,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -803,7 +803,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 49,
+                      "rightColumn": 47,
                       "widgetId": "tho2fuuh4e",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
                       "allowDialCodeChange": false,
